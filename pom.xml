@@ -34,10 +34,10 @@
     </pluginRepositories>
     <dependencies>
         <dependency>
-            <groupId>com.wordnik</groupId>
+            <groupId>io.swagger</groupId>
             <artifactId>swagger-core</artifactId>
             <scope>compile</scope>
-            <version>1.5.3-M1</version>
+            <version>1.5.3</version>
         </dependency>
         <dependency>
             <groupId>com.fasterxml.jackson.datatype</groupId>
@@ -211,7 +211,7 @@
             <plugin>
                 <groupId>com.github.kongchen</groupId>
                 <artifactId>swagger-maven-plugin</artifactId>
-                <version>3.0.1-SNAPSHOT</version>
+                <version>3.1.1-SNAPSHOT</version>
                 <configuration>
                     <apiSources>
                         <apiSource>

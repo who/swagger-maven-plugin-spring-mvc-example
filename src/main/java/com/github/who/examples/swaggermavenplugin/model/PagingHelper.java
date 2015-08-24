@@ -5,7 +5,7 @@
  */
 package com.github.who.examples.swaggermavenplugin.model;
 
-import com.wordnik.swagger.annotations.ApiParam;
+import io.swagger.annotations.ApiParam;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.web.bind.annotation.RequestParam;
 

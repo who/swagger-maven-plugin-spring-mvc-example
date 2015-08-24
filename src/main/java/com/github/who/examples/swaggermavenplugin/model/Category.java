@@ -1,7 +1,7 @@
 package com.github.who.examples.swaggermavenplugin.model;
 
 
-import com.wordnik.swagger.annotations.*;
+import io.swagger.annotations.*;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 
